@@ -10,10 +10,6 @@ a {
     text-decoration: none;
 }
 
-.img-yoga {
-    display: block;
-    margin: 125px auto 122px auto;
-}
 
 input {
     width: 321px;
@@ -24,6 +20,10 @@ input {
     border: none;
     margin: 0 auto;
     display: block;
+}
+.img-yoga {
+    display: block;
+    margin: 125px auto 122px auto;
 }
 
 .input-password {
