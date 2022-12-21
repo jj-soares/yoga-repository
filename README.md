@@ -16,5 +16,5 @@ Nesse projeto foi usado as seguintes tecnologias
 
 ![yoga2](https://user-images.githubusercontent.com/82819804/155042340-06e6291f-5019-4d35-947c-6057df63eedd.png)
 
-Feito por João Soares :wave: [Entre em contato!](https://www.linkedin.com/in/joao-soares-339642215/)
+Feito por João Soares :wave: [Entre em contato!](https://www.linkedin.com/in/jo%C3%A3o-soares13/)
 
